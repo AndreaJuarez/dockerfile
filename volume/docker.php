@@ -20,12 +20,11 @@
     <br></br>
 
     <!--Texto de explicación-->
-      <b><center>¿QUÉ ES DOCKER?</center></b>
+      <b><center>¿QUÉ ES DOCKERFILE?</center></b>
       <br></br> 
-        <p align="justify">Docker es una plataforma de software que le permite crear, probar e implementar aplicaciones rápidamente. Docker empaqueta software en unidades estandarizadas llamadas contenedores que incluyen todo lo necesario para que el software se ejecute, incluidas bibliotecas, herramientas de sistema, código y tiempo de ejecución.</p>
+        <p align="justify">Dockerfile es un archivo de texto que contiene las instrucciones necesarias para crear una nueva imagen del contenedor. Estas instrucciones incluyen la identificación de una imagen existente que se usará como base, los comandos que se ejecutarán durante el proceso de creación de la imagen y un comando que se ejecutará cuando se implementen instancias nuevas de la imagen del contenedor.</p>
 
-        <p align="justify">Nos proporciona una manera estándar de ejecutar nuestro código, es un sistema operativo para contenedores. De manera similar a cómo una máquina virtual virtualiza el hardware del servidor, los contenedores virtualizan el sistema operativo de un servidor. Además, Docker proporciona comandos sencillos que se pueden utilizar para crear, iniciar o detener contenedores.
-        </p>
+        <p align="justify">Un punto importante a mencionar es que un Dockerfile válido debe tener la instrucción "FROM" como su primer instrucción e indica la imagen que se utilizará para construir la nueva imagen. </p>
 
         <br></br> 
 
