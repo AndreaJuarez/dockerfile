@@ -43,7 +43,7 @@
     <!--Cartas-->
     <div class="row text-center">
 
-    <!--Insert-->
+    <!--Insert / Docker -->
       <div class="col-lg-3 col-md-6 mb-4">
         <div class="card h-60 w-60">
           <img class="card-img-top" src="https://th.bing.com/th/id/R5136aabef87932a42f393cd4e4ce2161?rik=jCEfvExy6uEUOQ&riu=http%3a%2f%2ftous-logos.com%2fwp-content%2fuploads%2f2018%2f04%2fLogo-Docker.png&ehk=Epuk2tXrpl9UoDQqgaER2DzN2BW3nzS%2bBiCgq2K25iw%3d&risl=&pid=ImgRaw" height="200" width="200">
@@ -53,7 +53,7 @@
           </div>
         </div>
       </div>
-    <!--List-->
+    <!--List / Ubuntu -->
       <div class="col-lg-3 col-md-6 mb-4">
         <div class="card h-60 w-60">
           <img class="card-img-top" src="https://th.bing.com/th/id/R76dfc91ab7fc328d37bbde66293c5b8b?rik=8o9TFPQFL4QfJA&riu=http%3a%2f%2fvariwiki.com%2fimages%2f1%2f1d%2fUbuntu-logo.jpg&ehk=qBb%2b4PsGyOnRjZw5NPndUBMeQe9pg%2blgWz1hOnQ0su0%3d&risl=&pid=ImgRaw" height="200" width="200">
