@@ -10,3 +10,6 @@ php -S 0.0.0.0:8080 -t .
 
 # docker commit 
 docker commit webapp dockerfile:v1
+
+# ultima modificación 
+Actividad 1.4 03/06/2021
