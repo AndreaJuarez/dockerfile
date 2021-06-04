@@ -23,8 +23,4 @@ RUN apt-get -y update && apt-get install -y \
     php-xdebug \
     php-ast
 
-#WORKDIR /var/www/html
-
-#CMD ["php-fpm"]
-
 EXPOSE 8080
