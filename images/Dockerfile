@@ -7,7 +7,6 @@ LABEL version = "0.1"
 RUN apt-get update
 RUN apt-get -y install software-properties-common
 RUN add-apt-repository ppa:ondrej/php
-# FIN BLOCK
 
 RUN apt-get -y update && apt-get install -y \
     php7.0 \
